@@ -8,7 +8,7 @@ public class HomeWork3 {
         diagonalArray();
         minMaxValueArrays();
         checkBalance(new int[]{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 5});
-        
+
 
     }
 
